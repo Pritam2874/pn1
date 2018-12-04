@@ -1,0 +1,49 @@
+*{
+	/*border: 1px solid black;*/
+	
+}
+.main {
+	width: 1380px;
+	height: 1000px;
+}
+.head {
+    background-color: #2874f0;
+	width: 1380;
+	height: 75px;
+}
+.list {
+	width: 150px;
+	display: flex;
+	list-style-type: none;
+	/*position: absolute;*/
+	/*margin-top: -60px;*/
+	padding: 0px;
+	margin-left: 600px;
+}
+.logo {
+	width: 110px;
+	height: 60px;
+	margin-top: 15PX;
+	margin-left: 150px;
+}
+.navbar {
+	width: 1380px;
+	height: 40px;
+
+}
+.navlist {
+	border: 2px solid black;
+	width: 180px;
+	height: 35px;
+	display: flex;
+	list-style-type: none;
+	font-size: 20px;
+}
+.discount {
+	width: 1380px;
+	height: 250px;
+}
+.off {
+	width: 1380px;
+	height: 250px;
+}
